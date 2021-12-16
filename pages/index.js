@@ -13,6 +13,18 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
+        <p className="my-description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="my-description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="my-description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className="my-description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
