@@ -2,9 +2,9 @@ import Head from "next/head"
 
 export default function Home() {
   return (
-    <div className="my-container">
+    <div className="also-mine-container">
       <Head>
-        <title>Create Next Application</title>
+        <title>Create Next APPLICATIONS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
